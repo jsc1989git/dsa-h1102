@@ -1,4 +1,4 @@
-package dsa_h1102;
+package dsa_h1102.machine_exercises;
 
 public class ArraysSpecValue {
     public static void main(String[] args) {
