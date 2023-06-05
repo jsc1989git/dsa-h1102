@@ -1,4 +1,4 @@
-package dsa_h1102.pseudocode;
+/* package dsa_h1102.pseudocode;
 
 public class BubbleSort {
     //Function to sort an array of integers in ascending order using the bubble sort algorithm
@@ -40,3 +40,4 @@ public class BubbleSort {
             print("Sorted array.")
             printArr(sortedArr)
 }
+*/
