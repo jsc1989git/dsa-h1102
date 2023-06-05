@@ -5,7 +5,7 @@ import java.util.Stack;
 public class Stack3Elements {
     public static void main(String[] args) {
         //Create a stack of strings
-        Stack<String> stack = new Stack<String>();
+        Stack<String> stack = new Stack<>();
 
         //Push three elements onto the stack
         stack.push("Alice");
